@@ -1,0 +1,77 @@
+Version 4.0 HI-TECH Software Intermediate Code
+"35 config.c
+[p x PLLDIV = 1 ]
+"36
+[p x CPUDIV = OSC1_PLL2 ]
+"37
+[p x USBDIV = 1 ]
+"40
+[p x FOSC = HS ]
+"41
+[p x FCMEN = OFF ]
+"42
+[p x IESO = OFF ]
+"45
+[p x PWRT = OFF ]
+"46
+[p x BOR = ON ]
+"47
+[p x BORV = 3 ]
+"48
+[p x VREGEN = OFF ]
+"51
+[p x WDT = OFF ]
+"52
+[p x WDTPS = 32768 ]
+"55
+[p x CCP2MX = ON ]
+"56
+[p x PBADEN = ON ]
+"57
+[p x LPT1OSC = OFF ]
+"58
+[p x MCLRE = ON ]
+"61
+[p x STVREN = ON ]
+"62
+[p x LVP = OFF ]
+"63
+[p x ICPRT = OFF ]
+"64
+[p x XINST = OFF ]
+"67
+[p x CP0 = OFF ]
+"68
+[p x CP1 = OFF ]
+"69
+[p x CP2 = OFF ]
+"70
+[p x CP3 = OFF ]
+"73
+[p x CPB = OFF ]
+"74
+[p x CPD = OFF ]
+"77
+[p x WRT0 = OFF ]
+"78
+[p x WRT1 = OFF ]
+"79
+[p x WRT2 = OFF ]
+"80
+[p x WRT3 = OFF ]
+"83
+[p x WRTC = OFF ]
+"84
+[p x WRTB = OFF ]
+"85
+[p x WRTD = OFF ]
+"88
+[p x EBTR0 = OFF ]
+"89
+[p x EBTR1 = OFF ]
+"90
+[p x EBTR2 = OFF ]
+"91
+[p x EBTR3 = OFF ]
+"94
+[p x EBTRB = OFF ]
